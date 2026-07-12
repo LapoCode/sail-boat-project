@@ -3,6 +3,9 @@
 ## Useful information
 
 As of right now the best sources of information come from RCGroups.com, google and youtube.
+I am having trouble finding good materials to study on. I need a more tecnical approach.
 Here are a few useful things i found:
-- https://www.instructables.com/RC-Sailboat/ A DIY sailboat is shown, however it is not made of 3D printed materials like i want.
-- https://www.rcgroups.com/forums/index.php Global forum for RC.
+- https://www.instructables.com/RC-Sailboat/
+  A DIY sailboat is shown, however it is not made of 3D printed materials like i want.
+- https://www.rcgroups.com/forums/index.php
+  Global forum for RC.
